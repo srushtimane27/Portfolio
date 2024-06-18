@@ -12,15 +12,15 @@
 .skill-container{
     width: 80%;
     height: 200px;
-    border: 2px solid red;
+    /* border: 2px solid red; */
     margin: auto;
     display: flex;
-    margin-top: 50px;
+    /* margin-top: 40px; */
 }
 .info-container{
     width: 20%;
     height: 200px;
-    border: 2px solid greenyellow;
+    /* border: 2px solid greenyellow; */
     margin: auto;
 }
 .image-skills{

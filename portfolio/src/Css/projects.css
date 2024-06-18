@@ -9,27 +9,24 @@
     height: 100%;
     width: 100%;
 }
-/* #screen{
-
-} */
 #container{
     width: 80%;
     height: 580px;
-    border: 2px solid white;
+    /* border: 2px solid white; */
     margin: auto;
     display: flex;
-    margin-top: 50px;
+    /* margin-top: 50px; */
 }
 #first{
     width: 45%;
     height: 100%;
-    border: 2px solid red;
+    /* border: 2px solid red; */
     margin: auto;
 }
 #second{
     width: 45%;
     height: 100%;
-    border: 2px solid yellow;
+    /* border: 2px solid yellow; */
     margin: auto;
 }
 .img{
@@ -65,15 +62,16 @@
         flex-direction: column;
     }
     #first{
-        width: 60%;
+        width: 90%;
         height: 2000px;
     }
     #second{
-        width: 60%;
+        width: 90%;
         height: 2000px;
+        margin-top: 50px;
     }
     .img{
-        margin-top: 10px;
+        margin-top: 30px;
     }
     .img>p{
         font-size: 17px;
