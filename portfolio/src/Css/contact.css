@@ -12,16 +12,15 @@
 #contact-container{
     width: 90%;
     height: 300px;
-    border: 2px solid yellow;
+    /* border: 2px solid yellow; */
     margin: auto;
-    margin-top: 80px;
     display: flex;
     justify-content: space-between;
 }
 #contact-container>div{
     width: 90%;
     height: 100%;
-    border: 2px solid red;
+    /* border: 2px solid red; */
     cursor: pointer;
 }
 .image{
