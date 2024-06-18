@@ -35,7 +35,7 @@
     cursor: pointer;
 }
 
-@media screen and (max-width: 950px){
+@media screen and (max-width: 480px){
     .nav-screen {
         width: 100%;
         height: 100px;
@@ -44,12 +44,13 @@
     .one{
         width: 20%;
         height: 50px;
-        font-size: 17px;
+        font-size: 15px;
         font-weight: bold;
     }
     .two{
-        width: 40%;
+        width: 70%;
         height: 50px;
         font-size: 14px;
+        /* font-weight: bold; */
     }
 }

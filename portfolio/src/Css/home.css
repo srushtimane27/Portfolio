@@ -74,17 +74,17 @@
         flex-direction: column-reverse;
     }
     #right{
-        width: 60%;
-        height: 400px;
+        width: 90%;
+        height: 500px;
         font-size: 33px;
         margin: auto;
         margin-top: -2px;
     }
     #left{
-        width: 60%;
+        width: 90%;
         height: 500px;
         margin: auto;
-        /* margin-top: 20px; */
+        margin-top: 20px;
     }
 
     .resume{
