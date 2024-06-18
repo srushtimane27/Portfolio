@@ -28,11 +28,11 @@
     height: 50px;
     /* border: 2px solid red; */
     margin: auto;
+    
 }
 #about{
     font-size: 40px;
     font-weight: bold;
-    /* margin-bottom: 20px; */
 }
 #lower{
     width: 100%;
